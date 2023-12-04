@@ -19,7 +19,7 @@ h1, h2, h3 {
 	padding: 0;
 	text-transform: uppercase;
 	font-weight: 300;
-	color: #7D7764;
+	color: #21ABCD;
 }
 
 h1 {
@@ -97,18 +97,18 @@ a:hover {
 	padding: 0px 0px 0px 5px;
 	font-size: 20px;
 	font-weight: 300;
-	color: #696969;
+	color: #21abcd;
 }
 
 #logo p a {
-	color: #696969;
+	color: #21abcd;
 }
 
 #logo a {
 	border: none;
 	background: none;
 	text-decoration: none;
-	color: #3C342E;
+	color: #21abcd;
 }
 
 
